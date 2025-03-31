@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkrishnapandit&label=Profile%20views&color=0e75b6&style=flat" alt="erkrishnapandit" /> </p>
 
-- 🔭 I’m currently working on [Contact-List App](https://contactlistmanageapp.netlify.app)
+- 🔭 I’m currently working on [E Commerce App](https://contactlistmanageapp.netlify.app)
 
 - 🌱 I’m currently learning **React Toolkit**
 
