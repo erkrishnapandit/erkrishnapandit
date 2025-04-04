@@ -6,7 +6,7 @@
 
 🔹 Passionate **Full-Stack Developer** specializing in **Frontend Development**  
 🔹 Proficient in **Java** with strong problem-solving skills  
-🔹 Learning **SQL & Firebase** to expand backend expertise  
+🔹 Learning **Node.js & Express** to expand backend expertise  
 
 📌 Portfolio: [erkrishnapandit.netlify.app](https://erkrishnapandit.netlify.app/)  
 📌 LinkedIn: [linkedin.com/in/erkrishnapandit](https://www.linkedin.com/in/erkrishnapandit/)  
