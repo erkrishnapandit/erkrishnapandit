@@ -1,3 +1,5 @@
+![Banner](https://your-image-url.gif)
+
 # Hi there, I'm Krishna Pandit! 👋
 
 ## 🚀 Full-Stack Developer | Frontend Enthusiast | Java Programmer  
