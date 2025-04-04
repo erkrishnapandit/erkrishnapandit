@@ -34,6 +34,9 @@
 
 ## 📂 Featured Projects
 
+### 🔹 [E-commerce Project (In Progress)](https://kp-ecom.netlify.app/)
+🔸 A complete e-commerce platform using **React, Redux, Tailwind CSS, and MongoDB**.
+
 ### 🔹 [Marvel Super Hero Hunter](https://marvelcharacterhunter.netlify.app/)
 🔸 A web app to search and explore Marvel characters. Built with **React, Tailwind CSS, and Marvel API**.
 
@@ -42,9 +45,6 @@
 
 ### 🔹 [Habit Tracker App](https://habittrackingapp.netlify.app/)
 🔸 A productivity app to track daily habits and progress. Built with **React and Local Storage**.
-
-### 🔹 [E-commerce Project (In Progress)](https://kp-ecom.netlify.app/)
-🔸 A complete e-commerce platform using **React, Redux, Tailwind CSS, and MongoDB**.
 
 ---
 
