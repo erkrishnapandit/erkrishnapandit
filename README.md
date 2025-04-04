@@ -1,24 +1,63 @@
-<h1 align="center">Hi 👋, I'm Krishna Kumar Pandit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Krishna Pandit! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erkrishnapandit&label=Profile%20views&color=0e75b6&style=flat" alt="erkrishnapandit" /> </p>
+## 🚀 Full-Stack Developer | Frontend Enthusiast | Java Programmer  
 
-- 🔭 I’m currently working on [E Commerce App](https://contactlistmanageapp.netlify.app)
+🔹 Passionate **Full-Stack Developer** specializing in **Frontend Development**  
+🔹 Proficient in **Java** with strong problem-solving skills  
+🔹 Learning **SQL & Firebase** to expand backend expertise  
 
-- 🌱 I’m currently learning **React Toolkit**
+📌 Portfolio: [erkrishnapandit.netlify.app](https://erkrishnapandit.netlify.app/)  
+📌 LinkedIn: [linkedin.com/in/erkrishnapandit](https://www.linkedin.com/in/erkrishnapandit/)  
+📌 GitHub: [github.com/erkrishnapandit](https://github.com/erkrishnapandit)  
 
-- 💬 Ask me about **React, Redux, ContextAPI,**
+---
 
-- 📫 How to reach me **krishnakumarji100@gmail.com**
+## 🔧 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/erkrishnapandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erkrishnapandit" height="30" width="40" /></a>
-<a href="https://fb.com/erkrishnapandit.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erkrishnapandit.fb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@erkrishnapandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="erkrishnapandit" height="30" width="40" /></a>
-</p>
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkrishnapandit&show_icons=true&locale=en&layout=compact" alt="erkrishnapandit" /></p>
+## 📂 Featured Projects
+
+### 🔹 [Marvel Super Hero Hunter](https://marvelcharacterhunter.netlify.app/)
+🔸 A web app to search and explore Marvel characters. Built with **React, Tailwind CSS, and Marvel API**.
+
+### 🔹 [Contact List Web App](https://contactlistmanageapp.netlify.app/)
+🔸 A contact management system to add, edit, and delete contacts. Developed using **React, Redux, and Bootstrap**.
+
+### 🔹 [Habit Tracker App](https://habittrackingapp.netlify.app/)
+🔸 A productivity app to track daily habits and progress. Built with **React and Local Storage**.
+
+### 🔹 [E-commerce Project (In Progress)](https://kp-ecom.netlify.app/)
+🔸 A complete e-commerce platform using **React, Redux, Tailwind CSS, and MongoDB**.
+
+---
+
+## 📊 GitHub Stats & Contributions
+
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erkrishnapandit&show_icons=true&theme=react&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erkrishnapandit&layout=compact&theme=react&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erkrishnapandit&theme=react&hide_border=true)  
+
+---
+
+## 🤝 Let's Connect
+💬 Feel free to reach out for collaborations, project discussions, or just a tech chat!
+
+📧 Email: krishnakumarji100@gmail.com  
+🌐 Portfolio: [erkrishnapandit.netlify.app](https://erkrishnapandit.netlify.app/)  
+📌 LinkedIn: [linkedin.com/in/erkrishnapandit](https://www.linkedin.com/in/erkrishnapandit/)  
+📌 GitHub: [github.com/erkrishnapandit](https://github.com/erkrishnapandit)  
