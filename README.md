@@ -1,4 +1,4 @@
-![Banner](https://github.com/erkrishnapandit/erkrishnapandit/blob/main/Banner-Image.png?raw=true)
+![Banner](https://github.com/erkrishnapandit/erkrishnapandit/blob/main/Banner-Image1.png?raw=true)
 
 # Hi there, I'm Krishna Pandit! 👋
 
