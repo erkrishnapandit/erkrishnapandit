@@ -1,4 +1,6 @@
 ![Banner](https://github.com/erkrishnapandit/erkrishnapandit/blob/main/Banner-Image1.png?raw=true)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=erkrishnapandit.erkrishnapandit)
+
 
 # Hi there, I'm Krishna Pandit! 👋
 
