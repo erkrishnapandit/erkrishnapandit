@@ -1,6 +1,6 @@
 ![Banner](https://github.com/erkrishnapandit/erkrishnapandit/blob/main/Banner-Image1.png?raw=true)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=erkrishnapandit.erkrishnapandit)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erkrishnapandit&label=Profile%20views&color=0e75b6&style=flat" alt="erkrishnapandit" /> </p>
 
 # Hi there, I'm Krishna Pandit! 👋
 
